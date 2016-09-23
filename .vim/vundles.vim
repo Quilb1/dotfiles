@@ -13,6 +13,9 @@ Plugin 'tpope/vim-fugitive'         " the ultimate git helper
 Plugin 'tpope/vim-commentary'       " comment/uncomment lines with gcc or gc in visual mode
 Plugin 'chriskempson/base16-vim'
 Plugin 'tpope/vim-eunuch'           " Special Commands such as :sudowrite 
+Plugin 'scrooloose/syntastic'
+Plugin 'bling/vim-airline'
+
 
 call vundle#end()
 filetype plugin indent on
